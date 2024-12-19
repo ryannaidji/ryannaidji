@@ -1,18 +1,18 @@
-# 👋 Hello, I'm Ryan!
-
 ## 🌟 About Me
 I am a **passionate Artificial Intelligence developer** dedicated to building intelligent systems that solve real-world problems. My current focus is on mastering **MLOps tools** to ensure the efficient deployment and monitoring of AI models.
 
 ---
-
+## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
 
 
-## 🛠️ Skills
 - **AI Development:** Deep learning, machine learning, data preprocessing.
 - **MLOps:** Experiment tracking, model deployment, performance monitoring.
 - **Tools and Technologies:**
@@ -40,17 +40,6 @@ Currently, I am exploring:
 - **Email:** ryan@example.com
 - **Personal Website:** [ryan-ai.com](https://ryan-ai.com)
 - **Discord:** Ryan#1234
-
----
-
-## 🎉 Fun Facts
-- I'm fascinated by the future of AI in robotics and healthcare.
-- In my free time, I love learning about cutting-edge AI research.
-
----
-
-## 🎥 Visual Highlights
-![AI Development](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 ---
 
