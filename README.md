@@ -5,6 +5,13 @@ I am a **passionate Artificial Intelligence developer** dedicated to building in
 
 ---
 
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+
 ## 🛠️ Skills
 - **AI Development:** Deep learning, machine learning, data preprocessing.
 - **MLOps:** Experiment tracking, model deployment, performance monitoring.
@@ -39,14 +46,6 @@ Currently, I am exploring:
 ## 🎉 Fun Facts
 - I'm fascinated by the future of AI in robotics and healthcare.
 - In my free time, I love learning about cutting-edge AI research.
-
----
-
-## 🎨 Badges
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
