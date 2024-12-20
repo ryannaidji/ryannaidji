@@ -1,3 +1,7 @@
+# Welcome to My GitHub Profile! 👋
+
+---
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ryannaidji">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -10,34 +14,123 @@
   </a>
 </div>
 
-
-## 🌟 About Me
-I am a **passionate Artificial Intelligence developer** dedicated to building intelligent systems that solve real-world problems. My current focus is on mastering **MLOps tools** to ensure the efficient deployment and monitoring of AI models.
-
 ---
-## 🛠️ Skills
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
+## About Me 🧑‍💻
 
+Hello! I’m Ryan Naidji, a passionate and dedicated AI and Machine Learning Developer with expertise in creating impactful solutions through cutting-edge technologies. With 2 years of experience, I specialize in:
 
-- **AI Development:** Deep learning, machine learning, data preprocessing.
-- **MLOps:** Experiment tracking, model deployment, performance monitoring.
-- **Tools and Technologies:**
-  - Python, TensorFlow, PyTorch, Scikit-learn
-  - Docker, Kubernetes, AWS (Certified AWS Cloud Practitioner)
-  - Git, CI/CD pipelines, MLFlow
+- Developing state-of-the-art machine learning models
+- Building scalable AI pipelines
+- Applying deep learning techniques to solve real-world problems
+
+I thrive on solving complex challenges, staying updated with AI advancements, and collaborating with others to drive innovation.
 
 ---
 
-## 🏆 Achievements
-- **Certification:** AWS Certified Cloud Practitioner 🏅
-- **Hackathon:** MDC AI Hackathon – *Best Overall Project* 🥇
+## What I Do 🚀
+
+🌟 **Core Areas of Expertise:**
+
+### **1. Programming & Development** 
+
+- **Languages:**
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+
+- **IDE and Editors:**
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+### **2. Machine Learning & AI Tools**
+
+- **Frameworks & Libraries:**
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+- **NLP:**
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-008080?style=for-the-badge&logo=nltk&logoColor=white" />
+
+- **Computer Vision:**
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+
+- **Monitoring & Validation:**
+  <img src="https://img.shields.io/badge/Evidently-4B8BBE?style=for-the-badge&logo=evidently&logoColor=white" />
+  <img src="https://img.shields.io/badge/NannyML-7F52FF?style=for-the-badge&logo=nannyml&logoColor=white" />
+
+### **3. Model Management & Deployment**
+
+- **Model Management:**
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
+
+- **Deployment:**
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-0099FF?style=for-the-badge&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+- **Containerization & Orchestration:**
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+- **Model Management & Deployment:**
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+### **4. Data Engineering & Processing**
+
+- **Databases:**
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+### **5. Visualization & Insights**
+
+- **Visualization Tools:**
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-1E64A5?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+
+**🎯 Focus Areas:**
+
+- Designing intelligent systems powered by machine learning
+- Building end-to-end AI pipelines for production
+- Leveraging cloud platforms to scale AI solutions
+
+---
+
+## Featured Projects 🌟
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Drone Control Interface and Real-time Object Detection using AI</td>
+      <td>Real-time object detection from a drone.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gradio-0099FF?style=for-the-badge&logo=gradio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=yolo&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
