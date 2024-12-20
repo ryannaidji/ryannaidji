@@ -34,18 +34,21 @@ I thrive on solving complex challenges, staying updated with AI advancements, an
 
 ### **1. Programming & Development** 
 
-- **Languages:**
+<div align="center">
+  <h4>Languages:</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 
-- **IDE and Editors:**
+  <h4>IDE and Editors:</h4>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</div>
 
 ### **2. Machine Learning & AI Tools**
 
-- **Frameworks & Libraries:**
+<div align="center">
+  <h4>Frameworks & Libraries:</h4>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -53,53 +56,54 @@ I thrive on solving complex challenges, staying updated with AI advancements, an
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-- **NLP:**
+  <h4>NLP:</h4>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
   <img src="https://img.shields.io/badge/NLTK-008080?style=for-the-badge&logo=nltk&logoColor=white" />
 
-- **Computer Vision:**
+  <h4>Computer Vision:</h4>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
 
-- **Monitoring & Validation:**
+  <h4>Monitoring & Validation:</h4>
   <img src="https://img.shields.io/badge/Evidently-4B8BBE?style=for-the-badge&logo=evidently&logoColor=white" />
   <img src="https://img.shields.io/badge/NannyML-7F52FF?style=for-the-badge&logo=nannyml&logoColor=white" />
+</div>
 
 ### **3. Model Management & Deployment**
 
-- **Model Management:**
+<div align="center">
+  <h4>Model Management:</h4>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
 
-- **Deployment:**
+  <h4>Deployment:</h4>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradio-0099FF?style=for-the-badge&logo=gradio&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-- **Containerization & Orchestration:**
+  <h4>Containerization & Orchestration:</h4>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-- **Model Management & Deployment:**
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</div>
 
 ### **4. Data Engineering & Processing**
 
-- **Databases:**
+<div align="center">
+  <h4>Databases:</h4>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
 
 ### **5. Visualization & Insights**
 
-- **Visualization Tools:**
+<div align="center">
+  <h4>Visualization Tools:</h4>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-1E64A5?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-
+</div>
 **🎯 Focus Areas:**
 
 - Designing intelligent systems powered by machine learning
